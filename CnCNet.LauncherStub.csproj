@@ -4,13 +4,19 @@
     <LangVersion>12.0</LangVersion>
     <OutputType>WinExe</OutputType>
     <UseWPF>true</UseWPF>
-    <Title>CnCNet Launcher</Title>
-    <Description>Launcher for CnCNet Client</Description>
-    <Company>CnCNet</Company>
-    <Product>CnCNet Client Launcher</Product>
-    <Copyright>Copyright © CnCNet, Rampastring 2011-2026</Copyright>
+    <Version>1.3.0</Version>
+    <AssemblyVersion>1.3.0.0</AssemblyVersion>
+    <FileVersion>1.3.0.0</FileVersion>
+    <InformationalVersion>1.3.0</InformationalVersion>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+    <Title>Bellum Aeternum Launcher</Title>
+    <AssemblyTitle>Bellum Aeternum Launcher</AssemblyTitle>
+    <Description>Launcher for Bellum Aeternum Client</Description>
+    <Company>Nuke Blastfield</Company>
+    <Product>Bellum Aeternum Client Launcher</Product>
+    <Copyright>Copyright (C) 2026 Nuke Blastfield</Copyright>
     <Trademark></Trademark>
-    <AssemblyName>CnCNet.LauncherStub</AssemblyName>
+    <AssemblyName>BELauncher</AssemblyName>
     <RootNamespace>CnCNet.LauncherStub</RootNamespace>
     <ComVisible>false</ComVisible>
     <CLSCompliant>false</CLSCompliant>
